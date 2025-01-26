@@ -8,3 +8,20 @@
 /dataSources.local.xml
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
+
+# Excel and GD files
+*.xls
+*.gsheet
+*.gslides
+
+# Misc files
+*.iml
+*.log
+
+
+# Image files
+*.png
+*.jpg
+*.HEIC
+
+
